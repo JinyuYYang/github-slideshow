@@ -2,5 +2,5 @@
 layout: slide
 title: "Welcome to our second slide!"
 ---
-Your text
+a bad guy with a good ass
 Use the left arrow to go back!
